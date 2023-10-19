@@ -40,7 +40,7 @@ It allows users to extract information from business cards and store it in a PSQ
 - Extracts text information from business card images using EasyOCR.
 - Utilizes OpenCV for image preprocessing, such as resizing, cropping, and enhancing.
 - Uses regular expressions (RegEx) to parse and extract specific fields like name, designation, company, contact details, etc.
-- Stores the extracted information in a MySQL database for easy retrieval and analysis.
+- Stores the extracted information in a PSQL database for easy retrieval and analysis.
 - Provides a user-friendly interface built with Streamlit to upload images, extract information, and view/update the database.
 
 
